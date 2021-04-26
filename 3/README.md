@@ -15,3 +15,5 @@
 ### [删除指定的值](./list-remove.py)
 
 ### [sort() 对列表永久排序](./list-sort.py)
+
+### [sorted() 对列表临时排序](./list-sorted.py)

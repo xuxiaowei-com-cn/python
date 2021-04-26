@@ -6,5 +6,7 @@
 
 ## [Python 之禅](./2/this.md)
 
+## [列表](./3/README.md)
+
 ## [其他](./other/README.md)
 

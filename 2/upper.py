@@ -1,3 +1,3 @@
-name = "ada lovelace"
+name = 'ada lovelace'
 
 print(name.upper())

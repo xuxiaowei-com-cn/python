@@ -1,1 +1,1 @@
-print("Language：\nPython\nC\nJavaScript")
+print('Language：\nPython\nC\nJavaScript')

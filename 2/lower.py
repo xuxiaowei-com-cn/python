@@ -1,3 +1,3 @@
-name = "ADA LOVELACE"
+name = 'ADA LOVELACE'
 
 print(name.lower())

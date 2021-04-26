@@ -1,1 +1,1 @@
-print("\tPython")
+print('\tPython')

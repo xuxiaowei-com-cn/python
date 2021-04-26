@@ -9,3 +9,5 @@
 ### [插入元素](./list-insert.py)
 
 ### [删除元素](./list-del.py)
+
+### [删除元素并弹出](./list-pop.py)

@@ -13,3 +13,13 @@
 - `Ctrl` + `B` 运行
 - `Shift` + `Ctrl` + `B` 运行于
 
+### 指定 Python 命令
+
+- Tools
+    - Build System
+        - New Build System
+            ```
+            {
+                "cmd": ["python3", "-u", "$file"],
+            }
+            ```

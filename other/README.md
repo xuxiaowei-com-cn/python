@@ -4,6 +4,7 @@
 
 - Python 窗口
     - `Ctrl` + `Z` 发送 `exit()`
+    - `Ctrl` + `D` 发送 `exit()`
 
 - Ubuntu 乌班图 Terminal
 

@@ -1,5 +1,7 @@
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 
+print(bicycles)
+
 # 非负整数索引从前向后数
 print(bicycles[0])
 print(bicycles[1])

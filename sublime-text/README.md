@@ -23,3 +23,13 @@
                 "cmd": ["python3", "-u", "$file"],
             }
             ```
+
+### 问题
+
+- 文件未保存时执行
+
+```
+/usr/bin/python3: can't find '__main__' module in ''
+[Finished in 0.1s with exit code 1]
+```
+

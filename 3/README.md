@@ -19,3 +19,5 @@
 ### [sorted() 对列表临时排序](./list-sorted.py)
 
 ### [reverse() 对列表顺序颠倒](./list-reverse.py)
+
+### [len() 列表长度](./list-len.py)

@@ -14,4 +14,4 @@
 
 ### [删除指定的值](./list-remove.py)
 
-### [sort() 对列表永久排序](./list-sort.md)
+### [sort() 对列表永久排序](./list-sort.py)

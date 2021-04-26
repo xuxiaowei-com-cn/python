@@ -1,4 +1,4 @@
 # Python 笔记
 
-## [Sublime Text](./Sublime-Text/README.md)
+## [Sublime Text](sublime-text/README.md)
 

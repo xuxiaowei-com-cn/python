@@ -17,3 +17,5 @@
 ### [sort() 对列表永久排序](./list-sort.py)
 
 ### [sorted() 对列表临时排序](./list-sorted.py)
+
+### [reverse() 对列表顺序颠倒](./list-reverse.py)

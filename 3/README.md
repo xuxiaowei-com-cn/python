@@ -6,13 +6,13 @@
 
 ### [append() 添加元素](./list-append.py)
 
-### [插入元素](./list-insert.py)
+### [insert() 插入元素](./list-insert.py)
 
-### [删除元素](./list-del.py)
+### [del 删除元素](./list-del.py)
 
-### [删除元素并弹出](./list-pop.py)
+### [pop() 删除元素并弹出](./list-pop.py)
 
-### [删除指定的值](./list-remove.py)
+### [remove() 删除指定的值](./list-remove.py)
 
 ### [sort() 对列表永久排序](./list-sort.py)
 

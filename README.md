@@ -1,6 +1,6 @@
 # Python 笔记
 
-## [Sublime Text](./sublime-text/README.md)
+## [Sublime Text](sublime_text/README.md)
 
 ## [变量和简单数据类型](./2/README.md)
 

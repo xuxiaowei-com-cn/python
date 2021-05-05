@@ -10,7 +10,7 @@
 
 ### [制表符](./tabs.py)
 
-### [换行符](./new-line.py)
+### [换行符](new_line.py)
 
 ### [删除空白](./strip.py)
 

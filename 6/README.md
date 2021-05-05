@@ -4,7 +4,7 @@
 
 ### [参数](./param.py)
 
-### [实参与形参](./real-formal-param.py)
+### [实参与形参](real_formal_param.py)
 
 ### [传递参数](./transfer-param.md)
 
@@ -12,22 +12,22 @@
 
 ### [传递列表](./list.py)
 
-### [在函数中修改列表](./modify-list.py)
+### [在函数中修改列表](modify_list.py)
 
-### [禁止函数修改列表](./prohibit-modify-list.py)
+### [禁止函数修改列表](prohibit_modify_list.py)
 
-### [传递任意数量参数](./arbitrary-param.py)
+### [传递任意数量参数](arbitrary_param.py)
 
-### [结合使用位置实参和任意数量实参](./position-arbitrary-param.py)
+### [结合使用位置实参和任意数量实参](position_arbitrary_param.py)
 
-### [使用任意数量的关键字实参](./keyword-arbitrary-param.py)
+### [使用任意数量的关键字实参](keyword_arbitrary_param.py)
 
 ### [将函数储存在模块中](./import.py)
 
-### [导入特定的函数](./import-specific-function.py)
+### [导入特定的函数](import_specific_function.py)
 
-### [使用as给函数指定别名](./import-as-function.py)
+### [使用as给函数指定别名](import_as_function.py)
 
-### [使用as给模块指定别名](./import-as-module.py)
+### [使用as给模块指定别名](import_as_module.py)
 
-### [导入模块中的所有函数](./import-all.py)
+### [导入模块中的所有函数](import_all.py)

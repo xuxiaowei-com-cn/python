@@ -6,6 +6,6 @@
 
 ### [数值函数](./function.py)
 
-### [列表解析](./for-range.py)
+### [列表解析](for_range.py)
 
 ### [列表切片](./slice.py)

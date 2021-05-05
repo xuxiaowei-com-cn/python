@@ -17,3 +17,5 @@
 ### [禁止函数修改列表](./prohibit-modify-list.py)
 
 ### [传递任意数量参数](./arbitrary-param.py)
+
+### [结合使用位置实参和任意数量实参](./position-arbitrary-param.py)

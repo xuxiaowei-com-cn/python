@@ -16,5 +16,7 @@
 
 ## [函数](./6/README.md)
 
+## [类](./7/README.md)
+
 ## [其他](./other/README.md)
 

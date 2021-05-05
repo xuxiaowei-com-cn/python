@@ -10,7 +10,9 @@
 
 ## [操作列表](./4/README.md)
 
-## [元组](4/tuple.md)
+## [元组](./4/tuple.md)
+
+## [if语句](./5/README.md)
 
 ## [其他](./other/README.md)
 

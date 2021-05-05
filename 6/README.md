@@ -23,3 +23,11 @@
 ### [使用任意数量的关键字实参](./keyword-arbitrary-param.py)
 
 ### [将函数储存在模块中](./import.py)
+
+### [导入特定的函数](./import-specific-function.py)
+
+### [使用as给函数指定别名](./import-as-function.py)
+
+### [使用as给模块指定别名](./import-as-module.py)
+
+### [导入模块中的所有函数](./import-all.py)

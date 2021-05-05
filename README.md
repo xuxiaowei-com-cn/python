@@ -14,5 +14,7 @@
 
 ## [if语句](./5/README.md)
 
+## [函数](./6/README.md)
+
 ## [其他](./other/README.md)
 

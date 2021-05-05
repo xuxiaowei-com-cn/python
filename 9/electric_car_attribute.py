@@ -16,7 +16,12 @@ class ElectricCar(car.Car):
         """打印一条描述电瓶容量的消息"""
         print(f"This car has a {self.battery_size}-kWh battery.")
 
+    def fill_gas_tank(self):
+        """电动汽车没有油箱"""
+        print(f"{self.make} {self.model} 没有油箱".title())
+
 
 my_tesla = ElectricCar('telsa', 'model s', 2019)
 print(my_tesla.get_descriptive_name())
 my_tesla.describe_battery()
+my_tesla.fill_gas_tank()

@@ -14,4 +14,4 @@ class Car:
 
     def fill_gas_tank(self):
         """加满油"""
-        print(f"{self.make} {self.model} 邮箱已加满".title())
+        print(f"{self.make} {self.model} 油箱已加满".title())

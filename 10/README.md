@@ -19,3 +19,13 @@
 ## [10.2.1 写入空文件](./w_message.py)
 
 ## [10.2.3 附加到文件](./a_message.py)
+
+# 10.3 异常
+
+## [10.3.1 处理`ZeroDivisionError`异常](./division_calculator.py)
+
+## [10.3.2 使用`try-except`代码块](./division_calculator.py)
+
+## [10.3.3 使用异常避免崩溃](./division_calculator.py)
+
+## [10.3.4 `else`代码块](./division_calculator.py)

@@ -19,7 +19,13 @@
 
 ### [使用类和实例](./car_import.py)
 
-#### [给属性指定默认值](car_default_value_import.py)
+#### [给属性指定默认值](./car_default_value_import.py)
+
+#### [修改属性的值](./car_default_value_import.py)
+
+#### [通过方法修改属性的值](./car_default_value_import.py)
+
+#### [通过方法对属性的值进行递增](./car_default_value_import.py)
 
 #### [修改属性的值](car_default_value_import.py)
 

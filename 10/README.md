@@ -13,3 +13,7 @@
 ## [10.1.6 包含一百万位的大型文件](./file_reader_million.py)
 
 ## [10.1.7 圆周率中包含你的生日吗](./file_reader_birthday.py)
+
+# 10.2 写入文件
+
+## [10.2.1 写入空文件](./write_message.py)

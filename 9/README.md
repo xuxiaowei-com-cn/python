@@ -44,3 +44,5 @@
 ### [9.3.2 给子类定义属性和方法](./electric_car_attribute.py)
 
 ### [9.3.3 重写父类的方法](./electric_car_attribute.py)
+
+### [9.3.4 将实例用作属性](./electric_car_attribute.py)

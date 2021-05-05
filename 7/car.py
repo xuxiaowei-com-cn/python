@@ -11,7 +11,3 @@ class Car:
         """返回整洁的描述性信息"""
         long_name = f"{self.year} {self.make} {self.model}"
         return long_name.title()
-
-
-my_car = Car('audi', 'a4', '2019')
-print(my_car.get_descriptive_name())

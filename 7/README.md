@@ -13,16 +13,16 @@
     - 以`self`为前缀的变量可供类中的所有方法使用，可以通过类的任何实例来访问
     - 可以通过实例访问的变量称之为`属性`
 
-### [创建和试用类](./dog.py)
+### [创建和试用类](./dog_import.py)
 
-#### [根据类创建实例](./dog.py)
+#### [根据类创建实例](./dog_import.py)
 
-### [使用类和实例](./car.py)
+### [使用类和实例](./car_import.py)
 
-#### [给属性指定默认值](./car-default-value.py)
+#### [给属性指定默认值](car_default_value_import.py)
 
-#### [修改属性的值](./car-default-value.py)
+#### [修改属性的值](car_default_value_import.py)
 
-#### [通过方法修改属性的值](./car-default-value.py)
+#### [通过方法修改属性的值](car_default_value_import.py)
 
-#### [通过方法对属性的值进行递增](./car-default-value.py)
+#### [通过方法对属性的值进行递增](car_default_value_import.py)

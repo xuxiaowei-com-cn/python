@@ -24,17 +24,3 @@ class Car:
     def increment_odometer(self, miles):
         """将里程表读数增加指定的量"""
         self.odometer_reading += miles
-
-
-my_car = Car('audi', 'a4', '2019')
-print(my_car.get_descriptive_name())
-my_car.read_odometer()
-
-my_car.odometer_reading = 23
-my_car.read_odometer()
-
-my_car.update_odometer(50)
-my_car.read_odometer()
-
-my_car.increment_odometer(5)
-my_car.read_odometer()

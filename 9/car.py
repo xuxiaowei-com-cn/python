@@ -11,3 +11,7 @@ class Car:
         """返回整洁的描述性信息"""
         long_name = f"{self.year} {self.make} {self.model}"
         return long_name.title()
+
+    def fill_gas_tank(self):
+        """加满油"""
+        print(f"{self.make} {self.model} 邮箱已加满".title())
